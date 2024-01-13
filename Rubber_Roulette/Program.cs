@@ -128,7 +128,6 @@ namespace Rubber_Roulette
             int playerHP = charges;
             int opponentHP = charges;
             int[] clip = new int[clip_size];
-            //clip = FillClip(clip_size, clip);
             clip = fill.FillClip(clip_size, clip);
             int rubber = 0;
             rubber = count.CountShells(clip_size, clip);
@@ -142,7 +141,7 @@ namespace Rubber_Roulette
 
 
 
-            ShowClip(clip_size, clip);
+            //ShowClip(clip_size, clip);
             Console.WriteLine();
             int remaining_shells = clip_size-1;
             bool turn = true;
