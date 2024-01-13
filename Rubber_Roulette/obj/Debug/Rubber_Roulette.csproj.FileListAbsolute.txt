@@ -1,0 +1,8 @@
+D:\Politechnika\PI\CustomApp_RubberRoulette\Rubber_Roulette\Rubber_Roulette\Rubber_Roulette\bin\Debug\Rubber_Roulette.exe.config
+D:\Politechnika\PI\CustomApp_RubberRoulette\Rubber_Roulette\Rubber_Roulette\Rubber_Roulette\bin\Debug\Rubber_Roulette.exe
+D:\Politechnika\PI\CustomApp_RubberRoulette\Rubber_Roulette\Rubber_Roulette\Rubber_Roulette\bin\Debug\Rubber_Roulette.pdb
+D:\Politechnika\PI\CustomApp_RubberRoulette\Rubber_Roulette\Rubber_Roulette\Rubber_Roulette\obj\Debug\Rubber_Roulette.csproj.AssemblyReference.cache
+D:\Politechnika\PI\CustomApp_RubberRoulette\Rubber_Roulette\Rubber_Roulette\Rubber_Roulette\obj\Debug\Rubber_Roulette.csproj.SuggestedBindingRedirects.cache
+D:\Politechnika\PI\CustomApp_RubberRoulette\Rubber_Roulette\Rubber_Roulette\Rubber_Roulette\obj\Debug\Rubber_Roulette.csproj.CoreCompileInputs.cache
+D:\Politechnika\PI\CustomApp_RubberRoulette\Rubber_Roulette\Rubber_Roulette\Rubber_Roulette\obj\Debug\Rubber_Roulette.exe
+D:\Politechnika\PI\CustomApp_RubberRoulette\Rubber_Roulette\Rubber_Roulette\Rubber_Roulette\obj\Debug\Rubber_Roulette.pdb
